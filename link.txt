@@ -1,0 +1,6 @@
+https://teachablemachine.withgoogle.com/models/R9nNpkUZy/model.json
+
+Thumbs Up: 👍 &#128077;
+Thumbs Down: 👎 &#128078;
+Clapping: 👏 &#128079;
+Good: 👌 &#128076;
